@@ -18,10 +18,7 @@ Front-end engineer who enjoys building **native-feeling tools with web tech** �
 | 🦭 | **[Manta Compare](https://github.com/marrviin/manta-compare)** | Fast cross-platform diff tool for text, folders & Git — Tauri + Monaco, a lightweight native alternative to Beyond Compare |
 | 🧩 | **[Manta Action Kit](https://github.com/marrviin/manta-action-kit)** | Chrome extension + MCP server that lets AI agents call your real logged-in APIs — cookies stay in the browser, never exposed to the model |
 
-### 📊 Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=marrviin&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats" height="150" />
-<img src="https://streak-stats.demolab.com?user=marrviin&hide_border=true&locale=en" alt="GitHub streak" height="150" />
+### 📊 Top Languages
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marrviin&layout=compact&hide_border=true&langs_count=6" alt="Top languages" height="150" />
 
